@@ -90,7 +90,7 @@ Let's look at the summary of each project step by step:
 </details>
 
 <details>
-<summary>🚀 <strong>Project 5: Clustering & Dimensionality Reduction</strong></summary>
+<summary>🚀 <strong>Project 5</strong></summary>
 
 1. Data Preprocessing and Exploratory Data Analysis (EDA)
     * Load and Clean
